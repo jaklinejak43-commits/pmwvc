@@ -1,0 +1,34 @@
+# Format: entity,Name,username,password[,permissions]
+# Permissions can be: ok, allow_add_gmail_of_news (or both separated by comma)
+TSS2,Abdelali AKARROU,abdelali,TrIaOIaaq2EcLi3LLSgcdWz3
+TSSW,Redouan EL ARRAS,redouan,red123*00
+TSSW,Ouiguemane YOUSSEF,y.ouiguemane,y.ouiguemane2234
+TSS2,Edraoui MAROUAN,M.Edraoui,vYfeg2C5SXo8lbmQ8eai4t1
+TSS2,Ait Hadi IKRAM,I.Ait_Hadi,Q13T2v52HGNdVoJe7hs59pQ
+TSS2,El Abdellaoui ROUMAYSSAA,R.El_Abdellaoui,KIB05zGqmYFf36x5zqK2iBS
+TSS2,Ahaddouch HAJAR,H.AHADDOUCH,3oM5UULBZuDWiEDb2l1EN1X
+TSS2,Adnan BELGUIN,Adnan,efa3Jwe4g7Ei3c0I94NMDER
+TSS3,Akdi SOUFIAN,SoufianAKDI,7KTEAfGwzk1H,gmass,blacklist_lookup
+TSS3,Elbazi NIHAD,NihadEl_Bazi,zyd7ztQ7P47Rrsj
+TSS2,Ahmimed AYA,AhmimedAya,YovSqot1W9SM64NO,blacklist_lookup,warmup_lists,Warmup_History,add_warmup_record,warmup_reports
+TSS1,El Alilti YASSINE,ELaliltiYassine,uCG75qf4H5n
+TSSF,Rabab LOU MRANI,Rabab_Loumrani,7P6Aavr2TX8Whes,domain_founder,warmup_lists,warmup_reports
+TSS1,Tahri MOHAMED AMINE,Mohamedamine_tahri,81bOnasisatha
+TSS1,Ahmimed ALAE,Ahmimed_Alae,0LspetHe4oN7g,blacklist_lookup,warmup_lists,Warmup_History,add_warmup_record,warmup_reports
+TSS1,Hachlaf GHOUFRAN,GHOUFRAN_HACHLAF,fab5d3pROcrlB,blacklist_lookup,warmup_lists,Warmup_History,add_warmup_record,warmup_reports
+TSS1,Ouessan BENAYAD,ouessan_benayad,fodOs0ukIdrAv
+TSS1,Omar EL OUTMANI,omar_eloutmani,2HLvIvat7oswl
+TSS1,Oussama AL MORABET,oussama_almorabet,niHUditRet2lg
+TSS3,Khaoula OUGHANEM,Khaoula.Oughanem,trA6r6hlFoph
+TSSW,Arbia ADOUROU,arabia_adoro,YqR7HCh0V1jc1
+TSSW,Mouna ESSAIDY,mouna_essaidy,05Zg073F6kkVDBGE
+TSSW,Sara EL EMRANI,sara_elemrani,Tp7Eg11Fbu9E8
+TSS3,Faissal ERRAHMOUNI,faissal_tss3,34O5KaNJ7SKcDdf
+TSS1,Hassan FILALI,F.Hassan,7D3Wx20m62Zvdjv
+TSSW,El Khatib CHAIMAE,Elkhatib,123
+TSS2,Mohamed EL MORABET,M_MORABET,ekRk17BIrTJ6x53
+TSS3,Stitou NADA,s.nada,9BZWgxlUqw15ank
+TSS3,El Bekkouri MOHAMED,b.mohamed,8jg4jB5L6mPvJsA
+TSS1,Addaibouni SOUMAYA,a.soumaya,sFC5861wyZkES96
+TSSW,Majda LAHLAI,Majda.LAHLAI,W73u0T0Aq42r78wv
+TSSW,El Khannouss YASSMINE,ElKhannouss.YASSMINE,gwE9jgTayL5WY807p
